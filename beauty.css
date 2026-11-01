@@ -4,3 +4,27 @@ body{
 h1 {
     color: brown;
 }
+
+.menu{
+    background-color: yellow;
+    border-style: double;
+    overflow: hidden;
+    padding: 10px;
+}
+.menu a{
+    background-color:red;
+    border-style: solid;
+    padding: 5px;
+    text-decoration: none;
+    border-color: red;
+    color: yellow;
+    
+}
+.menu a:hover{
+    background-color: orange;
+    border-color: orange;
+}
+
+.login{
+    margin-left: 50cqmax;
+}
